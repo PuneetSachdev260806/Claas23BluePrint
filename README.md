@@ -1,2 +1,1 @@
-# Claas23BluePrint
-Toppling boxes
+# Box Class
